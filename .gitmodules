@@ -1,0 +1,6 @@
+[submodule "pre-commit"]
+	path = pre-commit
+	url = https://github.com/keerthana1020/pre-commit.git
+[submodule ".cache/pre-commit/repo07vhgjdt"]
+	path = .cache/pre-commit/repo07vhgjdt
+	url = file:///home/user5/cache/pre-commit/repo07vhgjdt/
